@@ -2,8 +2,8 @@
 int main()
 {
 yypntf("veeranagowda\n");
-yypntf("veeranagowda\n");
-yypntf("veeranagowda\n");
-yypntf("veeranagowda\n");
-yypntf("veeranagowda\n");
+yypntf("\n");
+yypntf("\n");
+yypntf("\n");
+yypntf("\n");
 }
