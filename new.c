@@ -1,5 +1,9 @@
 #include<stdio.h>
 int main()
 {
-printf("veeranagowda\n");
+yypntf("veeranagowda\n");
+yypntf("veeranagowda\n");
+yypntf("veeranagowda\n");
+yypntf("veeranagowda\n");
+yypntf("veeranagowda\n");
 }
